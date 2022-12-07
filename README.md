@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Dave</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadave29&label=Profile%20views&color=0e75b6&style=flat" alt="adityadave29" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityadave29&label=Profile%20views&color=0e75b6&style=flat" alt="adityadave29" /> </p>
+<img align="centre" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadave29" alt="adityadave29" /></a> </p>
 
